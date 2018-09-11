@@ -1,0 +1,16 @@
+D:\library\src\main\java\com\kg\Library\Properties.java
+D:\library\src\main\java\com\kg\Library\model\BookRequest.java
+D:\library\src\main\java\com\kg\Library\model\LikeReview.java
+D:\library\src\main\java\com\kg\Library\LibraryApplication.java
+D:\library\src\main\java\com\kg\Library\repository\BookRepository.java
+D:\library\src\main\java\com\kg\Library\model\BookCategory.java
+D:\library\src\main\java\com\kg\Library\repository\BookRequestRepository.java
+D:\library\src\main\java\com\kg\Library\SwaggerConfig.java
+D:\library\src\main\java\com\kg\Library\controller\BookRequestController.java
+D:\library\src\main\java\com\kg\Library\model\Book.java
+D:\library\src\main\java\com\kg\Library\controller\BookReviewController.java
+D:\library\src\main\java\com\kg\Library\repository\LikeReviewRepository.java
+D:\library\src\main\java\com\kg\Library\controller\BookController.java
+D:\library\src\main\java\com\kg\Library\repository\BookReviewRepository.java
+D:\library\src\main\java\com\kg\Library\controller\LikeReviewController.java
+D:\library\src\main\java\com\kg\Library\model\BookReview.java
